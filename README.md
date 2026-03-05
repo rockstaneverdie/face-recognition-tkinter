@@ -20,7 +20,7 @@
    `pip install -r requirements.txt`
 2. Добавьте фото в папку `Base` (имя файла станет именем в системе).
 3. Запустите проект:
-   `python FACEDETECTOR.py`
+   `python face-recognition-Tkinter.py`
 
 ---
 *Created by rocksta*
